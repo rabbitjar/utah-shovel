@@ -1,0 +1,22 @@
+{
+  "name": "utah-shovel",
+  "version": "0.0.1",
+  "description": "This package is meant to seamleasly report Protractor tests results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabbitjar/utah-shovel.git"
+  },
+  "keywords": [
+    "protractor", "jasmine", "reporter"
+  ],
+  "author": "Kamil Lucznik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabbitjar/utah-shovel/issues"
+  },
+  "homepage": "https://github.com/rabbitjar/utah-shovel#readme"
+}
